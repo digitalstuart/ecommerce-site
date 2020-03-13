@@ -1,0 +1,3 @@
+*.sqlite3
+.dockerfile
+*__pycache__
