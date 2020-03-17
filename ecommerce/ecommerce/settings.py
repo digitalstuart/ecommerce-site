@@ -25,7 +25,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['https://8000-cfca4e30-005b-461a-871a-7053140f619f.ws-eu01.gitpod.io',
-                 'localhost']
+                 'localhost',
+                 'https://stu-ecommerce.herokuapp.com/']
 
 
 # Application definition
