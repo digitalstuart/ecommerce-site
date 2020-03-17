@@ -2,3 +2,6 @@
 .dockerfile
 *__pycache__
 env.py
+*.png
+static/
+media/
